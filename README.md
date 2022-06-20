@@ -13,7 +13,7 @@ In addition: none of the names of the train set appear in the test set, so it is
 
 ## Description
 
-![image](https://user-images.githubusercontent.com/52139366/174676593-e95bf1ee-82ed-477f-90e2-e3eaece132ae.png)
+![image](https://user-images.githubusercontent.com/52139366/174676661-e208d17d-d7c2-43c4-b3cd-a8a96ce679aa.png)
 
 
 You will have a train dataset with two columns: the product names, in the "name" column, and the descriptions associated with those names, in the "description" column.
